@@ -1,0 +1,64 @@
+{
+  "resumen_vocabulario": {
+    "stemming": {
+      "total_tokens": 52754,
+      "vocabulario_unico": 3777
+    },
+    "lematizacion": {
+      "total_tokens": 52754,
+      "vocabulario_unico": 5521
+    }
+  },
+  "comparativa_palabras": [
+    {
+      "palabra_original": "running",
+      "stemming": "run",
+      "lematizacion": "running"
+    },
+    {
+      "palabra_original": "admiring",
+      "stemming": "admir",
+      "lematizacion": "admiring"
+    },
+    {
+      "palabra_original": "dancing",
+      "stemming": "danc",
+      "lematizacion": "dancing"
+    },
+    {
+      "palabra_original": "speaking",
+      "stemming": "speak",
+      "lematizacion": "speaking"
+    },
+    {
+      "palabra_original": "happily",
+      "stemming": "happili",
+      "lematizacion": "happily"
+    },
+    {
+      "palabra_original": "feelings",
+      "stemming": "feel",
+      "lematizacion": "feeling"
+    },
+    {
+      "palabra_original": "studies",
+      "stemming": "studi",
+      "lematizacion": "study"
+    },
+    {
+      "palabra_original": "leaves",
+      "stemming": "leav",
+      "lematizacion": "leaf"
+    },
+    {
+      "palabra_original": "better",
+      "stemming": "better",
+      "lematizacion": "better"
+    },
+    {
+      "palabra_original": "worse",
+      "stemming": "wors",
+      "lematizacion": "worse"
+    }
+  ]
+}
